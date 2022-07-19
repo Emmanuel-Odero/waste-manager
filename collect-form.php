@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Contact | BETA</title>
+	<title>Contact | Waste</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 	<link href="https://fonts.googleapis.com/css?family=Lobster|Montserrat" rel="stylesheet"
@@ -9,7 +9,7 @@
 <body>
 	<header>
 		<nav>
-			<h1>BETA Hosp</h1>
+			<h1>Waste Waste</h1>
 			<ul id="navli">
 				<li><a class="homeblack" href="index.html">HOME</a></li>
 				<li><a class="homeblack" href="#">ABOUT US</a></li>
@@ -25,9 +25,9 @@
 
 
 
-    	<p style="font-family: Montserrat; text-align: center; font-size: 25px"><i class="fas fa-map-marked"></i> BETA Hosp</p>
+    	<p style="font-family: Montserrat; text-align: center; font-size: 25px"><i class="fas fa-map-marked"></i> Waste Hosp</p>
     	<p style="font-family: Montserrat; text-align: center; font-size: 25px"><i class="fas fa-address-book"></i> +8801234567891</p>
-    	<p style="font-family: Montserrat; text-align: center; font-size: 25px"><i class="fas fa-envelope"></i> contact@beta.health</p>
+    	<p style="font-family: Montserrat; text-align: center; font-size: 25px"><i class="fas fa-envelope"></i> contact@Waste.health</p>
     	
     	
     	

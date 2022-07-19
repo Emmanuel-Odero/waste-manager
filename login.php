@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Log In | BETA</title>
+	<title>Log In | Waste</title>
 	<link rel="stylesheet" type="text/css" href="stylelogin.css">
 </head>
 <body>
 	<header>
 		<nav>
-			<h1>BETA Hosp</h1>
+			<h1>Waste Waste</h1>
 			<ul id="navli">
 				<li><a class="homeblack" href="index.html">HOME</a></li>
 				<li><a class="homered" href="elogin.html">Employee Login</a></li>
